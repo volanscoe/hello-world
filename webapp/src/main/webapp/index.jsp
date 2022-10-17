@@ -9,4 +9,4 @@
 <h2>Let Ansible do its magic</h2>
 <br>
 <h2> Ansible deploying to Docker Host </h2>
-<<h3> The final run before k8s </h3>
+<h3> This the final run before deploying to k8s </h3>
